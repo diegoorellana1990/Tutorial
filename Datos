@@ -1,6 +1,0 @@
-[
-{"rowId":"1","Producto":"item1","Tienda":"10","Cantidad":"1","Entregado":"Si","Fecha":"11/11/2015"},
-{"rowId":"2","Producto":"item2","Tienda":"50","Cantidad":"1","Entregado":"No","Fecha":"11/11/2015"},
-{"rowId":"3","Producto":"item3","Tienda":"5","Cantidad":"1","Entregado":"No","Fecha":"11/11/2015"},
-{"rowId":"10","Producto":"item10","Tienda":"8","Cantidad":"1","Entregado":"Cancelado","Fecha":"11/11/2015"}
-]
